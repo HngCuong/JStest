@@ -1,0 +1,13 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "test case",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "cuong",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.0"}
+}
